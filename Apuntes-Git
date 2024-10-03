@@ -9,4 +9,8 @@ git status -s: listar el contenido del repositorio git
             
 git add . : pasar el contenido de la carpeta de trabajo al area de ensayo
 
+git commit -m "texto estado proyecto" : para guardar los camios del proyecto
 
+git log -oneline : para ver los commits
+
+git rest --hard numero del commit : para volver a la version indicada
