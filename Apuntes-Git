@@ -14,3 +14,10 @@ git commit -m "texto estado proyecto" : para guardar los camios del proyecto
 git log -oneline : para ver los commits
 
 git rest --hard numero del commit : para volver a la version indicada
+
+    Tags: permiten especificar versiones 
+    
+    Clonar de un proyecto de GitHub a local:
+    
+    Ramas: Branches Son lineas de tiempo en el proyecto con commits
+        
